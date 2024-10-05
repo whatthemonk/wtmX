@@ -86,7 +86,7 @@
 		"babel-plugin-react-compiler": "0.0.0-experimental-27e0f40-20241002",
 		"husky": "9.1.6",
 		"lint-staged": "15.2.10",
-		"mdx": "0.3.1",
+		"mdx": "0.2.3",
 		"postcss": "8.4.47",
 		"semantic-release": "24.1.2",
 		"sharp": "0.33.5",
